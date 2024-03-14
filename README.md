@@ -17,3 +17,7 @@ things i learned, bite-sized
 ### regex
 
 - [Validate Password with Limited Special Characters](regex/validate-password-with-limited-special-chars.md)
+
+### windows
+
+- [Get Hostname from IP Address](windows/get-hostname-from-ip-address.md)
