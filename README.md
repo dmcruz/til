@@ -6,6 +6,7 @@ things i learned, bite-sized
 
 - [python](python)
 - [regex](regex)
+- [windows](windows)
 
 ### python
 
@@ -13,6 +14,8 @@ things i learned, bite-sized
 - [Download dependencies to a folder](python/download-dependencies-to-a-folder.md)
 - [Installing dependencies offline](python/installing-dependencies-offline.md)
 - [Packaging and distributing python application](python/packaging-python-script-to-exe.md)
+
+- [Print colored text in terminal](python/print-colored-text-in-terminal.md)
 
 ### regex
 
