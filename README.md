@@ -17,6 +17,8 @@ things i learned, bite-sized
 
 - [Print colored text in terminal](python/print-colored-text-in-terminal.md)
 
+- [Pandas validate date formats](python/pandas-validate-date-formats.md)
+
 ### regex
 
 - [Validate Password with Limited Special Characters](regex/validate-password-with-limited-special-chars.md)
